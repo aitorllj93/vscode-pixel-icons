@@ -9,7 +9,7 @@
   "categories": [
     "Other"
   ],
-  "publisher": "Azganoth",
+  "publisher": "aitorllj93",
   "icon": "./icon.png",
   "activationEvents": [],
   "main": "./out/extension.js",
@@ -22,7 +22,7 @@
       }
     ]
   },
-  "repository": "https://github.com/Azganoth/vscode-pixel-icons",
+  "repository": "https://github.com/aitorllj93/vscode-pixel-icons",
   "scripts": {
     "vscode:prepublish": "pnpm run compile",
     "compile": "tsc -p ./",

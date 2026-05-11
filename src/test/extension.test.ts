@@ -3,6 +3,6 @@ import * as vscode from "vscode";
 
 suite("Extension Test Suite", () => {
   test("should be present", () => {
-    assert.ok(vscode.extensions.getExtension("Azganoth.pixel-icons"));
+    assert.ok(vscode.extensions.getExtension("aitorllj93.pixel-icons"));
   });
 });

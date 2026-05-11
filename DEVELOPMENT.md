@@ -16,7 +16,7 @@
 2. **Clone** the repository:
 
    ```bash
-   git clone https://github.com/Azganoth/vscode-pixel-icons.git
+   git clone https://github.com/aitorllj93/vscode-pixel-icons.git
    cd vscode-pixel-icons
    ```
 
