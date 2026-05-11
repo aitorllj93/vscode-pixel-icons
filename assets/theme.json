@@ -664,5 +664,8 @@
     ".vercelignore": "vercel_ignore_file",
     ".vscode": "vscode_file",
     ".vscodeignore": "vscode_ignore_file"
+  },
+  "languageIds": {
+    "tailwindcss": "css_file"
   }
 }
