@@ -1,7 +1,7 @@
 {
-  "name": "pixel-icons",
-  "displayName": "Pixel Icons",
-  "description": "Pixel art icons for vscode",
+  "name": "pixel-icons-grayscale",
+  "displayName": "Pixel Icons Grayscale",
+  "description": "Pixel art icons for vscode in grayscale",
   "version": "1.0.1",
   "engines": {
     "vscode": "^1.105.0"
@@ -16,8 +16,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "pixel-icons",
-        "label": "Pixel Icons",
+        "id": "pixel-icons-grayscale",
+        "label": "Pixel Icons Grayscale",
         "path": "./assets/theme.json"
       }
     ]
